@@ -30,7 +30,7 @@ Another prerequisite before using the following SQL commands was to create a col
 
 ALTER TABLE volusia.parcel ADD COLUMN airport_d double precision;
 
-Alternatively, you could create a new table. ** You can more culumns if you need to...
+Alternatively, you could create a new table. ** You can add more culumns if you need to...
 
 CREATE TABLE volusia.new_table (
     parid numeric,
